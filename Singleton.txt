@@ -1,1 +1,2 @@
 This is my new singleton series
+This is a great start
